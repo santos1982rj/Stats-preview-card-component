@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+- Desktop: 1440px
+- Mobile: 375px
+*/
+
+body {
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+main {
+  background-color: hsl(233, 47%, 7%);
+  width: 100%;
+  height: 100vh;
+  display: grid;
+}
